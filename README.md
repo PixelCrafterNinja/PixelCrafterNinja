@@ -1,10 +1,10 @@
-- 👋 Ciao, sono Daniele akka @PixelCrafterNinja
-- 👀 Mi interessano codici eleganti e snack che posso mangiare elegantemente. Scopiazzo a destra e manca, da Gemini a GPT, al classico Stack Overflow!
-- 🌱 Sto imparando trucchi per sembrare impegnato, soprattutto durante riunioni che potevano essere mail.
-- 💞️ Cerco complici per per lamentarsi dei progetti in modo epico!
-- 📫 Come messaggiarmi: rispondo più velocemente se nel testo c’è scritto “Ti mando 5 euro” oppure “Ti offro una birra” oppure inizi la discussione con un meme o una gif.
-- 😄 Pronomi: Ninja/Qualsiasi cosa non sia “Danielino”. 
-- ⚡ Fun fact: Tra commit, push e pull, la mia memoria è un colabrodo; ma se mi chiedi di una stupidagine, rispondo in un secondo.
+- 👋 Hi, I’m Daniele aka @PixelCrafterNinja  
+- 👀 I’m into elegant code and snacks I can sneak with style. I shamelessly copy from everywhere—Gemini, GPT, and good old Stack Overflow!  
+- 🌱 Currently learning tricks to look busy, especially during meetings that could’ve been emails.  
+- 💞️ Seeking partners in crime to epically complain about projects!  
+- 📫 How to message me: I reply faster if your text says “I’ll send you 5 euros”, “I’ll buy you a beer”, or if you start with a meme or a gif.  
+- 😄 Pronouns: Ninja/Anything as long as it’s not “Danielino.”  
+- ⚡ Fun fact: Between commits, pushes, and pulls, my memory’s full of holes; but if you ask me something silly, I’ll answer in a heartbeat.
 
 <!---
 PixelCrafterNinja/PixelCrafterNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
